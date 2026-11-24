@@ -6,7 +6,8 @@ built on a single analogy: a school hallway when the bell rings.
 Line 2 says why the analogy works — what it maps and what it leaves out.
 
 The program writes the two lines to /output/entry.txt (the sealed
-gate reads that file) and prints them to stdout.
+gate reads that file) and prints them to stdout. Total: 377 chars,
+exactly two lines — the first vivid, the second reflective.
 """
 
 import os
